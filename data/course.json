@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6bc6e4ba-f737-2bb1-0b1a-637e19424173"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Non-Equilibrium Statistical Mechanics",
+  "course_description": "This course discusses the principles and methods of non-equilibrium statistical mechanics. Basic topics covered are stochastic processes, regression and response theory, molecular hydrodynamics, and complex liquids. Selected applications, including fluctuation theorems, condensed phase reaction rate theory, electron transfer dynamics, enzymatic networks, photon counting statistics, single molecule kinetics, reaction-controlled diffusion, may also be discussed.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.72",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
